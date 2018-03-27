@@ -1,1 +1,1 @@
-# exchange-webscraper
+Use these bash files to scrape the trade history (+ deposits, withdrawals) from exchanges that do not have a functional API. These scripts consume a plain HTML file, which you have to download manually. More info can be found in the comments inside the respective script.
